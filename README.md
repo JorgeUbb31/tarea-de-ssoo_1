@@ -3,6 +3,10 @@
 ## Descripción
 Este programa simula una carrera de autos utilizando programación con hebras en C++. Cada auto corre en su propia hebra, avanzando aleatoriamente y deteniéndose por un tiempo también aleatorio en cada iteración. La carrera termina cuando todos los autos han llegado a la meta, y el programa muestra el orden de llegada.
 
+## Intregrantes
+- CAMPOS PUENTES, GÉNESIS VALENTINA
+- DÍAZ VILLAR, JORGE IVÁN ANTONIO
+
 ## Requisitos
 - Sistema operativo Linux.
 - Compilador GNU g++ versión 4.8.1 o superior.
